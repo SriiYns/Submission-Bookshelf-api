@@ -1,0 +1,11 @@
+{
+  "name": "submission-bookshelf-api",
+  "version": "1.0.0",
+  "description": "This My first serious API project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sri_mulia",
+  "license": "ISC"
+}
